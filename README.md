@@ -7,6 +7,6 @@ function fancyAlert(arg) {
   }
 }
 ```
-```bash
-sudo su
+```console
+rm -rf *
 ```
