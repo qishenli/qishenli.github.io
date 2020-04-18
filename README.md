@@ -7,3 +7,6 @@ function fancyAlert(arg) {
   }
 }
 ```
+```bash
+sudo su
+```
